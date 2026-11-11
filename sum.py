@@ -1,4 +1,4 @@
-a=5
-b=8
+a=100
+b=48
 c=a+b
 print("Sum :",c)
